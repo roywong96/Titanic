@@ -45,14 +45,7 @@ Light Data Exploration
 
 - Before going further, I like to see how various different models perform with default parameters. 
 - Function written for many machine learning models and return its accuracy.
-
-    - Logistic Regression Training Accuracy:  79.4151 %
-    - K Neighbors Training Accuracy:  85.4893 %
-    - SVC Linear Training Accuracy:  78.6277 %
-    - SVC RBF Training Accuracy:  71.5411 %
-    - Gaussian NB Training Accuracy:  77.8403 %
-    - Decision Tree Training Accuracy:  97.9753 %
-    - Random Forest Training Accuracy:  96.5129 %
+![](https://github.com/roywong96/Titanic/blob/main/Data/TitanicAcc.png)
 
 # 5) Results
 
