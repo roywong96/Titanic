@@ -4,7 +4,7 @@ Using Machine Learning algorithm to predict if someone survived the Titanic ship
 
 # Data Preparation
 
-- Data Obtained From: https://www.kaggle.com/azeembootwala/titanic?select=test_data.csv
+**Titanic Dataset:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/azeembootwala/titanic?select=test_data.csv)</br>
 
 # Exploratory Data Analysis
 
