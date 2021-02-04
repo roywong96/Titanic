@@ -6,26 +6,6 @@ Using Machine Learning algorithm to predict if someone survived the Titanic ship
 
 **Titanic Dataset:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/azeembootwala/titanic?select=test_data.csv)</br>
 
-# Exploratory Data Analysis
-
-- Using '.info()', '.describe()', '.shape()'
-  - to explore the features in the data
-  - look at the descriptive statistics of the data
-  - checking the dimensions of the data
-- Histograms and boxplots 
-- Value counts 
-
-
-Light Data Exploration
-
-1) For numeric data
-  - Made histograms to understand distributions
-  - Pivot table comparing survival rate across numeric variables
-
-
-2) For Categorical Data
-  - Made bar charts to understand balance of classes
-  - Made pivot tables to understand relationship with survival
 
 # Data Preprocessing for Model
 
@@ -40,6 +20,23 @@ Light Data Exploration
 
 - Scaled data 0-1 with standard scaler
 
+
+# Exploratory Data Analysis
+
+Light Data Exploration
+
+1) For numeric data
+  - Made histograms to understand distributions
+  - Pivot table comparing survival rate across numeric variables
+
+
+2) For Categorical Data
+  - Made bar charts to understand balance of classes
+  - Made pivot tables to understand relationship with survival
+
+![](https://github.com/roywong96/Titanic/blob/main/images/corrplot.png)
+
+
 # Model Building and Performance
 
 - Before going further, I like to see how various different models perform with default parameters. 
@@ -50,3 +47,6 @@ Light Data Exploration
 
 - Results of the survivability is filled in the test dataset using the trained model 
 - Decision Tree Classifier is chosen as it has the highest accuracy.
+
+![](https://github.com/roywong96/Titanic/blob/main/images/Survival.png)
+
