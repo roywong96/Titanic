@@ -1,9 +1,10 @@
 # Titanic
 Using Machine Learning algorithm to predict if someone survived the Titanic shipwreck. 
 
+# Reference
 
-# Data Preparation
-
+**Python Version:** 3.8</br>
+**Packages:** numpy, pandas, seaborn, matplotlib</br>
 **Titanic Dataset:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/azeembootwala/titanic?select=test_data.csv)</br>
 
 
