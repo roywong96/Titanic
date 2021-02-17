@@ -1,6 +1,16 @@
 # Titanic
 Using Machine Learning algorithm to predict if someone survived the Titanic shipwreck. 
 
+# Project Overview
+
+- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
+- Removed outliers, imputed any missing values and normalized the fare to obtain more accurate predictions.
+- Engineered Features such as Family Size, Title (i.e 'Fam_Size', 'Title').
+- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classifier, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Regressor.
+- Voting Classifier is also used which takes all of the inputs and averages the results.
+- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
+- Accurately predicted 77.9% of the test set.
+
 # Reference
 
 **Python Version:** 3.8</br>
